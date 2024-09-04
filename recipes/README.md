@@ -1,2 +1,0 @@
-# gitCafe
-Joe's Cafe
